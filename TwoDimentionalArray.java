@@ -33,7 +33,7 @@ public class TwoDimentionalArray {
             }
         });
         int hourglass_sum = 0;
-        for (int i = 0; i < arr.size(); i++) {;
+        for (int i = 0; i < arr.size(); i++) {
 
             hourglass_sum = arr[i][j] + arr[i][j + 1] + arr[i][j + 2]
                     + arr[i + 1][j + 1]
