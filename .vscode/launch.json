@@ -1,125 +1,132 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Launch Java Program",
-            "request": "launch",
-            "mainClass": ""
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "ArrayListSolution",
-            "request": "launch",
-            "mainClass": "ArrayListSolution",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "Between2Sets",
-            "request": "launch",
-            "mainClass": "Between2Sets",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "BigDecimalSolution",
-            "request": "launch",
-            "mainClass": "BigDecimalSolution",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "Big_Integer",
-            "request": "launch",
-            "mainClass": "Big_Integer",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "Bit",
-            "request": "launch",
-            "mainClass": "Bit",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "DayoftheProgrammer",
-            "request": "launch",
-            "mainClass": "DayoftheProgrammer",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "Fibonacci",
-            "request": "launch",
-            "mainClass": "Fibonacci",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "MapSolution",
-            "request": "launch",
-            "mainClass": "MapSolution",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "OneDimentionalArray",
-            "request": "launch",
-            "mainClass": "OneDimentionalArray",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "Prime",
-            "request": "launch",
-            "mainClass": "Prime",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "PriorityQueue",
-            "request": "launch",
-            "mainClass": "PriorityQueue",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "ReverseWords",
-            "request": "launch",
-            "mainClass": "ReverseWords",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "Solution",
-            "request": "launch",
-            "mainClass": "Solution",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "TwoDimentionalArray",
-            "request": "launch",
-            "mainClass": "TwoDimentionalArray",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        },
-        {
-            "type": "java",
-            "name": "UniqeList",
-            "request": "launch",
-            "mainClass": "UniqeList",
-            "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SpreadSheet",
+      "request": "launch",
+      "mainClass": "SpreadSheet",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListSolution",
+      "request": "launch",
+      "mainClass": "ArrayListSolution",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "Between2Sets",
+      "request": "launch",
+      "mainClass": "Between2Sets",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "BigDecimalSolution",
+      "request": "launch",
+      "mainClass": "BigDecimalSolution",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "Big_Integer",
+      "request": "launch",
+      "mainClass": "Big_Integer",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "Bit",
+      "request": "launch",
+      "mainClass": "Bit",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "DayoftheProgrammer",
+      "request": "launch",
+      "mainClass": "DayoftheProgrammer",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "MapSolution",
+      "request": "launch",
+      "mainClass": "MapSolution",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "OneDimentionalArray",
+      "request": "launch",
+      "mainClass": "OneDimentionalArray",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "Prime",
+      "request": "launch",
+      "mainClass": "Prime",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "PriorityQueue",
+      "request": "launch",
+      "mainClass": "PriorityQueue",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "ReverseWords",
+      "request": "launch",
+      "mainClass": "ReverseWords",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "TwoDimentionalArray",
+      "request": "launch",
+      "mainClass": "TwoDimentionalArray",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "UniqeList",
+      "request": "launch",
+      "mainClass": "UniqeList",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    }
+  ]
 }
