@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "swapPairs",
+      "request": "launch",
+      "mainClass": "swapPairs",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "MergeSortedList",
+      "request": "launch",
+      "mainClass": "MergeSortedList",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "WordSearch",
+      "request": "launch",
+      "mainClass": "WordSearch",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
       "name": "SpreadSheet",
       "request": "launch",
       "mainClass": "SpreadSheet",
