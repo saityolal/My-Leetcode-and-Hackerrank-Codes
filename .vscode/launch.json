@@ -1,7 +1,20 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
+    {
+      "type": "java",
+      "name": "nextPermutation",
+      "request": "launch",
+      "mainClass": "nextPermutation",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
+      "name": "PermutationGenerator",
+      "request": "launch",
+      "mainClass": "PermutationGenerator",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
     {
       "type": "java",
       "name": "Run Current File",
