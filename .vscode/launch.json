@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CombinationSum",
+      "request": "launch",
+      "mainClass": "CombinationSum",
+      "projectName": "My-Leetcode-and-Hackerrank-Codes_c753850d"
+    },
+    {
+      "type": "java",
       "name": "nextPermutation",
       "request": "launch",
       "mainClass": "nextPermutation",
